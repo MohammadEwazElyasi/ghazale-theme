@@ -73,6 +73,15 @@ Font Awesome - http://fortawesome.github.io/Font-Awesome/
 License: [[http://opensource.org/licenses/MIT|MIT]]
 Copyright: Dave Gandy, https://twitter.com/davegandy
 
+<<<<<<< HEAD
 Google Fonts - http://www.google.com/fonts/
 License: [[http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL]]
 Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+=======
+Main Home Page Icons - http://flaticon.com/
+Credit: Icons made by [[http://superstoked.se" title="Robin Kylander]] Robin Kylander from www.flaticon.com is licensed under [[http://creativecommons.org/licenses/by/3.0/]] CC BY 3.0
+
+Google Fonts - http://www.google.com/fonts/
+License: [[http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL]]
+Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) with Reserved Font Name "Raleway"
+>>>>>>> 9e911b66a5b4cdbacea95398b5c5dfffce502f51

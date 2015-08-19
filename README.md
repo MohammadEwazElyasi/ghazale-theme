@@ -1,6 +1,6 @@
 = GHAZALE =
 
-* Created by Ghazale Shirazi
+* Created by Ghazale
 
 == ABOUT GHAZALE THEME ==
 
